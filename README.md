@@ -127,7 +127,7 @@ nothing to commit, working tree clean
    将本地库上传git：
    
    ```bash
-   git remote add origin https://github.com/lilichao/git-demo.git
+   git remote add origin https://github.com/Ryansewd/git-dome
    # git remote add <remote name> <url>
    
    git branch -M main
