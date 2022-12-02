@@ -99,7 +99,7 @@ nothing to commit, working tree clean
    git branch -d <branch name> # 删除分支
    git switch <branch name> # 切换分支
    git switch -c <branch name> # 创建并切换分支
-   git merge <branch name> # 和并分支
+   git merge <需要和并的分支> # 和并分支
    ```
 
    在开发中，都是在自己的分支上编写代码，代码编写完成后，在将自己的分支合并到主分支中。
